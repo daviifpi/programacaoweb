@@ -7698,10 +7698,6 @@ fieldset:disabled .btn {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
 }
-.text-blog{
-    --bs-text-opacity: 1;
-    color: rgba(20, 53, 69, var(--bs-text-opacity)) !important 
-}
 .text-info {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) !important;
